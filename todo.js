@@ -24,4 +24,3 @@ while(input !== "quit" && input !== "q"){
     }
     input = prompt("What would you like to do....");
 }
-console.log("Ok")
